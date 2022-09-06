@@ -1,0 +1,1 @@
+e- #!/bin/bash\nhead -10 /etc/passwd
